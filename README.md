@@ -5,6 +5,12 @@
 
 
 
+# Same data, different chart
+
+![Dashboard design](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/forlikedin.gif)
+
+
+
 # Table of Contents
 
 
@@ -85,6 +91,10 @@ Here is a list of appropriate chart visuals used in answering key questions.
 
 ![Dasboard design](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/Call%20center%20Report.PNG)
 
+
+# Same data, different chart
+
+![Dashboard design](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/For%20LinkedIn.PNG)
 
 # Development
 
