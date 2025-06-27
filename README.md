@@ -1,13 +1,13 @@
 # Sales-Call-Marketing-Center
 
 
-![Dasboard design](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/sales%20and%20marketing%20report.gif)
+![Dasboard design](images/sales%20and%20marketing%20report.gif)
 
 
 
 # Same data, different chart
 
-![Dashboard design](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/forlikedin.gif)
+![Dashboard design](images/forlikedin.gif)
 
 
 
@@ -89,12 +89,12 @@ Here is a list of appropriate chart visuals used in answering key questions.
 7.	Stacked bar chart
 8.	Filter panel
 
-![Dasboard design](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/Call%20center%20Report.PNG)
+![Dasboard design](images/Call%20center%20Report.PNG)
 
 
 # Same data, different chart
 
-![Dashboard design](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/For%20LinkedIn.PNG)
+![Dashboard design](images/For%20LinkedIn.PNG)
 
 # Development
 
@@ -117,34 +117,34 @@ The goal is to refine the dataset to ensure its clean and ready for analysis.
 
 ### Processing 
 
-![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/001.PNG)
+![Processing](images/001.PNG)
 
 
-![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/002.PNG)
+![Processing](images/002.PNG)
 
 
-![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/003.PNG)
+![Processing](images/003.PNG)
 
 
-![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/004.PNG)
+![Processing](images/004.PNG)
 
 
-![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/005.PNG)
+![Processing](images/005.PNG)
 
 
-![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/006.PNG)
+![Processing](images/006.PNG)
 
 
-![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/007.PNG)
+![Processing](images/007.PNG)
 
 
-![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/008.PNG)
+![Processing](images/008.PNG)
 
 
-![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/009.PNG)
+![Processing](images/009.PNG)
 
 
-![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/010.PNG)
+![Processing](images/010.PNG)
 
 ## Findings
 
