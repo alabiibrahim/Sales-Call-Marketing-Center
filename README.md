@@ -1,9 +1,8 @@
 # Sales-Call-Marketing-Center
 
 
-![Dasboard design](assets/images/Pizza%20sales%20gif%20.gif)
+![Dasboard design](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/sales%20and%20marketing%20report.gif)
 
-![Dasboard design](assets/images/Pizza%20sales%202gif%20.gif)
 
 
 # Table of Contents
@@ -84,9 +83,8 @@ Here is a list of appropriate chart visuals used in answering key questions.
 7.	Stacked bar chart
 8.	Filter panel
 
-![Dasboard design](assets/images/Pizza%20report%201.PNG)
+![Dasboard design](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/Call%20center%20Report.PNG)
 
-![Dashboard design](assets/images/Pizza%20report%202.PNG)
 
 # Development
 
@@ -107,7 +105,36 @@ The goal is to refine the dataset to ensure its clean and ready for analysis.
 - All data types should be appropriate for the contents of each column.
 - No column should contain null values, indicating complete data for all records
 
+### Processing 
 
+![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/001.PNG)
+
+
+![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/002.PNG)
+
+
+![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/003.PNG)
+
+
+![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/004.PNG)
+
+
+![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/005.PNG)
+
+
+![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/006.PNG)
+
+
+![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/007.PNG)
+
+
+![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/008.PNG)
+
+
+![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/009.PNG)
+
+
+![Processing](https://github.com/alabiibrahim/Sales-Call-Marketing-Center/blob/main/images/010.PNG)
 
 ## Findings
 
