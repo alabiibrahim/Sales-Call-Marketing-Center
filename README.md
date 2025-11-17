@@ -5,11 +5,6 @@
 
 
 
-# Same data, different chart
-
-![Dashboard design](images/forlikedin.gif)
-
-
 
 # Table of Contents
 
@@ -92,9 +87,6 @@ Here is a list of appropriate chart visuals used in answering key questions.
 ![Dasboard design](images/Call%20center%20Report.PNG)
 
 
-# Same data, different chart
-
-![Dashboard design](images/For%20LinkedIn.PNG)
 
 # Development
 
