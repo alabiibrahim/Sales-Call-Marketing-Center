@@ -67,7 +67,7 @@ Here are the Data needed to achieve project goal
 
 | Tools | Purpose | 
 | --- | --- | 
-| Excel ( Functions & Formulas ) |  Cleaning, Transformation, Processing. |
+| Excel (Advance) |  Cleaning, Transformation, Processing. |
 
 
 ## Dashboard design
