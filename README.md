@@ -4,8 +4,6 @@
 ![Dasboard design](images/sales%20and%20marketing%20report.gif)
 
 
-
-
 # Table of Contents
 
 
